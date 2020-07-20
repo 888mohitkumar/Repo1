@@ -1,0 +1,13 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 1886-F20A
+
+ Directory of C:\Users\mohitkumar09\Desktop\JavaProg
+
+20-07-2020  16:48    <DIR>          .
+20-07-2020  16:48    <DIR>          ..
+20-07-2020  15:51    <DIR>          .git
+17-07-2020  13:18               427 StackSort.class
+17-07-2020  13:09               122 StackSort.java
+20-07-2020  16:48                 0 temp.txt
+               3 File(s)            549 bytes
+               3 Dir(s)  70,727,065,600 bytes free
